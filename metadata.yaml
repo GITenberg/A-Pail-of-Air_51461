@@ -1,0 +1,44 @@
+_repo: A-Pail-of-Air_51461
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emshwiller, Edmund A.
+    - Willer
+    - Alexander, Ed
+    - Emsh
+    - Emsh, Ed
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Leiber, Fritz
+    alias: Leiber, Fritz Reuter
+    birthdate: 1910
+    deathdate: 1992
+    gutenberg_agent_id: '25421'
+    url: http://www.gutenberg.org/2009/agents/25421
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Leiber
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Survival -- Fiction'
+- GITenberg
+title: A Pail of Air
+url: http://www.gutenberg.org/ebooks/51461
